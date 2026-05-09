@@ -13,7 +13,7 @@ The player must avoid incoming obstacles by timing jumps correctly while survivi
 
 ## Gameplay
 
-![Gameplay](./media/jumpover.gif)
+![Gameplay](./Media/jumpover.gif)
 
 ## Built With
 
